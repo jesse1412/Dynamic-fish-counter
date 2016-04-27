@@ -1,0 +1,12 @@
+Z:\Visual Studio 2015\Projects\Fish counter\Fish counter\bin\Debug\Fish counter.exe.config
+Z:\Visual Studio 2015\Projects\Fish counter\Fish counter\bin\Debug\Fish counter.exe
+Z:\Visual Studio 2015\Projects\Fish counter\Fish counter\bin\Debug\Fish counter.pdb
+Z:\Visual Studio 2015\Projects\Fish counter\Fish counter\obj\Debug\Fish counter.csprojResolveAssemblyReference.cache
+Z:\Visual Studio 2015\Projects\Fish counter\Fish counter\obj\Debug\Fish counter.exe
+Z:\Visual Studio 2015\Projects\Fish counter\Fish counter\obj\Debug\Fish counter.pdb
+E:\Visual studio\C#\Visual Studio 2015\Projects\Fish counter\Fish counter\bin\Debug\Fish counter.exe.config
+E:\Visual studio\C#\Visual Studio 2015\Projects\Fish counter\Fish counter\obj\Debug\Fish counter.exe
+E:\Visual studio\C#\Visual Studio 2015\Projects\Fish counter\Fish counter\obj\Debug\Fish counter.pdb
+E:\Visual studio\C#\Visual Studio 2015\Projects\Fish counter\Fish counter\bin\Debug\Fish counter.exe
+E:\Visual studio\C#\Visual Studio 2015\Projects\Fish counter\Fish counter\bin\Debug\Fish counter.pdb
+E:\Visual studio\C#\Visual Studio 2015\Projects\Fish counter\Fish counter\obj\Debug\Fish counter.csprojResolveAssemblyReference.cache
